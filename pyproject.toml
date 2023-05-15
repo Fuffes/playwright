@@ -1,12 +1,15 @@
 [tool.poetry]
-name = "playwright"
+name = "playwright_exp"
 version = "0.1.0"
 description = ""
-authors = ["fuffes <shamrey02@mail.ru>"]
+authors = ["fuffes <fuffes05@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+playwright = "^1.33.0"
+pytest-playwright = "^0.3.3"
+
 
 
 [build-system]
