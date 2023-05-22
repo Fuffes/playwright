@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.11"
 playwright = "^1.33.0"
 pytest-playwright = "^0.3.3"
+pytest-asyncio = "^0.21.0"
+asyncio = "^3.4.3"
 
 
 
